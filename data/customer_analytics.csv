@@ -1,0 +1,501 @@
+customer_id,age,gender,region,income,spending_score,transactions_per_year,total_spend,preferred_category,loyalty_years,churn_risk
+CUST_0001,39,Female,London,57704.4,75.2,24,8121.6,Grocery,10,Low
+CUST_0002,33,Male,Manchester,94344.51,66.6,28,8391.6,Sports,9,Low
+CUST_0003,41,Female,Birmingham,20000.0,51.1,17,3909.15,Sports,4,Medium
+CUST_0004,50,Male,Bristol,48121.51,38.4,33,5702.4,Grocery,0,Low
+CUST_0005,32,Male,Manchester,26230.52,62.6,33,9296.1,Grocery,1,Low
+CUST_0006,32,Male,Manchester,28465.19,57.1,27,6937.65,Electronics,3,Medium
+CUST_0007,50,Male,London,27005.69,66.1,25,7436.25,Grocery,4,Low
+CUST_0008,42,Female,London,23576.47,61.4,19,5249.7,Clothing,8,Low
+CUST_0009,30,Male,Birmingham,37207.32,68.9,29,8991.45,Grocery,10,Low
+CUST_0010,40,Female,Manchester,23969.2,40.4,30,5454.0,Clothing,0,Low
+CUST_0011,30,Female,Leeds,41573.92,73.7,30,9949.5,Clothing,2,Low
+CUST_0012,30,Male,London,35414.65,53.6,21,5065.2,Electronics,4,Medium
+CUST_0013,37,Female,London,32225.91,87.4,34,13372.2,Clothing,2,Low
+CUST_0014,18,Male,Manchester,23068.38,37.6,29,4906.8,Electronics,3,Medium
+CUST_0015,18,Female,London,27217.47,81.2,22,8038.8,Electronics,2,Low
+CUST_0016,29,Male,London,52981.37,53.6,25,6030.0,Sports,3,Medium
+CUST_0017,24,Male,Birmingham,46651.42,38.3,24,4136.4,Clothing,0,Medium
+CUST_0018,38,Male,London,22275.05,41.3,25,4646.25,Grocery,11,Medium
+CUST_0019,25,Male,Birmingham,38164.7,44.2,24,4773.6,Sports,7,Medium
+CUST_0020,20,Male,London,52875.4,57.6,27,6998.4,Sports,3,Medium
+CUST_0021,49,Female,London,20000.0,59.4,21,5613.3,Grocery,6,Medium
+CUST_0022,32,Female,Manchester,,39.7,32,5716.8,Health & Beauty,1,Low
+CUST_0023,35,Female,Leeds,26073.85,49.6,27,6026.4,Clothing,1,Medium
+CUST_0024,20,Female,Manchester,48305.43,88.6,32,12758.4,Clothing,5,Low
+CUST_0025,29,Male,Leeds,24794.33,81.1,30,10948.5,Clothing,1,Low
+CUST_0026,36,Male,London,20000.0,57.9,32,8337.6,Health & Beauty,5,Low
+CUST_0027,23,Male,Leeds,20000.0,50.7,41,9354.15,Health & Beauty,10,Low
+CUST_0028,38,Male,London,37199.2,52.2,17,3993.3,Clothing,1,Medium
+CUST_0029,28,Female,Birmingham,41351.39,61.0,24,6588.0,Electronics,3,Low
+CUST_0030,32,Female,Birmingham,23105.86,31.6,36,5119.2,Grocery,6,Low
+CUST_0031,28,Male,Bristol,49975.9,45.4,24,4903.2,Electronics,7,Medium
+CUST_0032,53,Male,Manchester,20000.0,20.0,27,2430.0,Grocery,2,Medium
+CUST_0033,34,Female,London,35135.25,57.2,18,4633.2,Health & Beauty,8,Medium
+CUST_0034,24,Female,London,20000.0,,13,3603.6,Health & Beauty,1,Low
+CUST_0035,43,Male,Leeds,26214.87,41.3,36,6690.6,Health & Beauty,7,Low
+CUST_0036,22,Female,Manchester,37186.44,78.3,28,9865.8,Sports,7,Low
+CUST_0037,37,Non-Binary,Leeds,23618.68,27.9,25,3138.75,Grocery,3,Medium
+CUST_0038,18,Male,London,29963.11,23.6,42,4460.4,Health & Beauty,0,Low
+CUST_0039,21,Male,London,60062.83,54.0,38,9234.0,Grocery,0,Low
+CUST_0040,36,Female,London,27215.83,68.8,27,8359.2,Electronics,1,Low
+CUST_0041,42,Non-Binary,Bristol,55151.88,80.3,24,8672.4,Electronics,11,Low
+CUST_0042,36,Female,Birmingham,20643.31,41.7,23,4315.95,Clothing,8,Medium
+CUST_0043,33,Male,Bristol,47330.12,69.4,30,9369.0,Clothing,1,Low
+CUST_0044,31,Male,London,74666.31,49.3,20,4437.0,Grocery,1,Medium
+CUST_0045,20,Female,Birmingham,20000.0,46.9,23,4854.15,Health & Beauty,5,Medium
+CUST_0046,27,Female,Birmingham,24380.83,65.9,34,10082.7,Electronics,6,Low
+CUST_0047,30,Male,London,48462.04,61.7,28,7774.2,Electronics,6,Low
+CUST_0048,45,Female,Leeds,32809.63,21.6,18,1749.6,Sports,8,High
+CUST_0049,38,Female,Bristol,43720.52,76.6,29,9996.3,Electronics,5,Low
+CUST_0050,18,Female,Bristol,26849.63,74.8,27,9088.2,Grocery,7,Low
+CUST_0051,38,Female,Leeds,37922.31,38.7,34,5921.1,Grocery,10,Low
+CUST_0052,31,Female,London,33595.97,57.1,27,6937.65,Grocery,5,Medium
+CUST_0053,28,Male,London,65113.75,58.9,30,7951.5,Electronics,1,Low
+CUST_0054,41,Female,Bristol,41241.92,54.7,17,4184.55,Electronics,0,Medium
+CUST_0055,45,Male,London,42993.38,40.1,33,5954.85,Electronics,4,Low
+CUST_0056,44,Female,Birmingham,29556.58,37.9,23,3922.65,Grocery,8,Medium
+CUST_0057,26,Male,Birmingham,28458.35,49.5,22,4900.5,Grocery,7,Medium
+CUST_0058,31,Female,Birmingham,29252.52,71.1,32,10238.4,Clothing,3,Low
+CUST_0059,38,Male,Bristol,44232.99,59.8,23,6189.3,Grocery,4,Medium
+CUST_0060,44,Male,London,29422.29,43.3,24,4676.4,Health & Beauty,4,Medium
+CUST_0061,30,Male,London,41977.43,63.9,27,7763.85,Electronics,5,Low
+CUST_0062,33,Male,London,102508.44,1.0,29,130.5,Grocery,2,Medium
+CUST_0063,23,Female,Manchester,56137.67,70.7,20,6363.0,Health & Beauty,4,Low
+CUST_0064,23,Female,London,30852.97,18.7,34,2861.1,Clothing,1,Low
+CUST_0065,43,Female,London,66211.34,43.5,23,4502.25,Clothing,9,Medium
+CUST_0066,48,Male,Leeds,29612.81,29.8,24,3218.4,Grocery,0,Medium
+CUST_0067,34,Male,Bristol,20000.0,26.7,29,3484.35,Sports,10,Medium
+CUST_0068,45,Male,London,21937.59,70.9,33,10528.65,Health & Beauty,0,Low
+CUST_0069,38,Male,Manchester,20000.0,41.6,37,6926.4,Grocery,9,Low
+CUST_0070,28,Female,Bristol,30462.24,56.2,22,5563.8,Health & Beauty,6,Medium
+CUST_0071,38,Male,London,36651.48,49.2,33,7306.2,Clothing,1,Low
+CUST_0072,50,Male,London,83970.32,58.6,21,5537.7,Grocery,3,Medium
+CUST_0073,34,Male,London,,51.4,30,6939.0,Clothing,4,Low
+CUST_0074,50,Male,Birmingham,32547.3,26.9,27,3268.35,Electronics,6,Medium
+CUST_0075,18,Female,London,54978.79,67.9,33,10083.15,Health & Beauty,1,Low
+CUST_0076,43,Female,Bristol,20000.0,41.1,43,7952.85,Grocery,5,Low
+CUST_0077,35,Male,Manchester,40855.93,22.0,30,2970.0,Clothing,0,Low
+CUST_0078,32,Male,Manchester,53392.88,42.3,35,6662.25,Sports,6,Low
+CUST_0079,35,Male,London,20000.0,77.0,22,7623.0,Electronics,8,Low
+CUST_0080,18,Male,Manchester,64336.15,65.3,29,8521.65,Clothing,4,Low
+CUST_0081,32,Male,Birmingham,43012.59,43.7,19,3736.35,Electronics,4,Medium
+CUST_0082,38,Non-Binary,Leeds,29506.21,43.7,34,6686.1,Health & Beauty,3,Low
+CUST_0083,49,Female,Leeds,49830.92,44.2,31,6165.9,Health & Beauty,2,Low
+CUST_0084,29,Female,Birmingham,113022.98,87.4,27,10619.1,Clothing,8,Low
+CUST_0085,26,Male,Bristol,39772.58,56.9,27,6913.35,Health & Beauty,4,Medium
+CUST_0086,29,Male,Leeds,41114.26,,28,7270.2,Clothing,7,Medium
+CUST_0087,44,Female,Leeds,28863.11,68.5,25,7706.25,Health & Beauty,8,Low
+CUST_0088,38,Female,London,23743.83,54.3,31,7574.85,Clothing,4,Low
+CUST_0089,29,Female,London,55004.37,45.3,20,4077.0,Clothing,9,Medium
+CUST_0090,40,Male,London,23669.87,46.5,21,4394.25,Sports,8,Medium
+CUST_0091,35,Female,Birmingham,37638.51,48.7,27,5917.05,Clothing,1,Medium
+CUST_0092,44,Male,Manchester,28600.27,49.3,30,6655.5,Electronics,8,Low
+CUST_0093,27,Female,Manchester,46142.51,63.1,26,7382.7,Grocery,10,Low
+CUST_0094,31,Female,Bristol,42908.75,50.9,30,6871.5,Sports,3,Low
+CUST_0095,31,Female,Bristol,61008.59,63.2,31,8816.4,Clothing,5,Low
+CUST_0096,20,Male,Bristol,28141.25,48.5,31,6765.75,Electronics,5,Low
+CUST_0097,37,Female,London,31731.42,51.4,23,5319.9,Clothing,5,Medium
+CUST_0098,37,Male,Birmingham,22261.59,14.0,24,1512.0,Grocery,1,Medium
+CUST_0099,35,Male,London,29081.38,66.5,31,9276.75,Electronics,6,Low
+CUST_0100,32,Male,London,43855.27,56.2,25,6322.5,Grocery,5,Medium
+CUST_0101,20,Female,London,53023.7,,35,10710.0,Sports,10,Low
+CUST_0102,30,Male,London,22900.58,1.0,33,148.5,Clothing,0,Low
+CUST_0103,31,Male,Manchester,56095.06,87.6,24,9460.8,Clothing,1,Low
+CUST_0104,26,Female,Leeds,71526.19,47.5,31,6626.25,Clothing,6,Low
+CUST_0105,33,Male,London,44654.82,69.9,20,6291.0,Electronics,0,Low
+CUST_0106,39,Female,Leeds,92818.19,31.3,27,3802.95,Sports,0,Medium
+CUST_0107,53,Male,Manchester,24664.13,61.0,29,7960.5,Clothing,0,Low
+CUST_0108,36,Male,London,20000.0,31.0,47,6556.5,Clothing,7,Low
+CUST_0109,37,Female,Manchester,20000.0,38.8,27,4714.2,Grocery,3,Medium
+CUST_0110,34,Male,London,76728.01,84.5,24,9126.0,Clothing,3,Low
+CUST_0111,18,Female,Birmingham,50371.6,46.6,25,5242.5,Grocery,1,Medium
+CUST_0112,34,Female,Manchester,35320.11,53.9,32,7761.6,Electronics,10,Low
+CUST_0113,35,Female,London,41772.12,65.7,32,9460.8,Health & Beauty,10,Low
+CUST_0114,59,Female,London,20686.89,58.9,34,9011.7,Sports,10,Low
+CUST_0115,33,Male,Manchester,123361.7,52.7,35,8300.25,Grocery,0,Low
+CUST_0116,38,Male,Bristol,38739.33,56.6,31,7895.7,Sports,11,Low
+CUST_0117,34,Female,London,38357.19,93.3,20,8397.0,Electronics,9,Low
+CUST_0118,23,Female,Leeds,52202.38,49.0,25,5512.5,Grocery,8,Medium
+CUST_0119,46,Female,Birmingham,46189.35,53.6,25,6030.0,Grocery,6,Medium
+CUST_0120,42,Female,Bristol,40617.0,68.9,32,9921.6,Grocery,3,Low
+CUST_0121,42,Female,Leeds,24459.23,,36,11323.8,Clothing,11,Low
+CUST_0122,25,Female,Birmingham,45969.54,71.4,31,9960.3,Clothing,5,Low
+CUST_0123,49,Male,Birmingham,93061.17,61.5,36,9963.0,Electronics,1,Low
+CUST_0124,20,Female,Bristol,71161.7,29.4,19,2513.7,Clothing,6,High
+CUST_0125,40,Male,Manchester,80546.77,79.4,33,11790.9,Electronics,1,Low
+CUST_0126,56,Male,London,28124.38,29.4,34,4498.2,Health & Beauty,9,Low
+CUST_0127,25,Female,London,22141.25,55.4,18,4487.4,Electronics,7,Medium
+CUST_0128,29,Female,Leeds,34101.84,36.4,29,4750.2,Electronics,7,Medium
+CUST_0129,35,Male,Leeds,37341.57,48.8,20,4392.0,Grocery,0,Medium
+CUST_0130,29,Male,London,62761.42,55.9,31,7798.05,Grocery,7,Low
+CUST_0131,19,Male,Birmingham,20000.0,55.8,35,8788.5,Sports,1,Low
+CUST_0132,35,Female,Manchester,78024.27,57.6,28,7257.6,Grocery,5,Medium
+CUST_0133,24,Female,London,33556.84,79.0,25,8887.5,Clothing,0,Low
+CUST_0134,39,Male,Bristol,29335.67,58.2,33,8642.7,Health & Beauty,4,Low
+CUST_0135,25,Male,London,21893.56,45.6,36,7387.2,Grocery,10,Low
+CUST_0136,50,Female,London,20000.0,67.4,30,9099.0,Electronics,6,Low
+CUST_0137,27,Male,Birmingham,,71.4,29,9317.7,Grocery,9,Low
+CUST_0138,31,Female,Leeds,37671.49,27.9,24,3013.2,Sports,0,Medium
+CUST_0139,43,Non-Binary,London,20000.0,60.8,20,5472.0,Clothing,1,Low
+CUST_0140,22,Male,Birmingham,20000.0,62.6,28,7887.6,Clothing,6,Low
+CUST_0141,37,Female,Manchester,30702.75,44.6,40,8028.0,Electronics,5,Low
+CUST_0142,48,Male,London,83659.54,74.8,32,10771.2,Electronics,2,Low
+CUST_0143,18,Male,London,31894.99,47.3,30,6385.5,Clothing,9,Low
+CUST_0144,36,Female,Birmingham,20000.0,,24,5648.4,Grocery,1,Medium
+CUST_0145,37,Male,London,32116.61,46.9,28,5909.4,Electronics,9,Medium
+CUST_0146,42,Non-Binary,Bristol,31686.25,50.3,21,4753.35,Sports,3,Medium
+CUST_0147,22,Female,Leeds,20000.0,30.3,28,3817.8,Health & Beauty,2,Medium
+CUST_0148,21,Male,Bristol,35342.89,24.1,30,3253.5,Grocery,6,Low
+CUST_0149,40,Male,London,32355.29,78.7,23,8145.45,Health & Beauty,7,Low
+CUST_0150,37,Male,Bristol,51436.49,34.8,23,3601.8,Electronics,1,Medium
+CUST_0151,37,Male,Manchester,91535.12,32.2,20,2898.0,Grocery,9,High
+CUST_0152,38,Male,London,63785.59,11.2,33,1663.2,Grocery,6,Low
+CUST_0153,28,Male,London,31747.07,38.5,28,4851.0,Health & Beauty,7,Medium
+CUST_0154,37,Male,London,20883.97,26.2,38,4480.2,Health & Beauty,5,Low
+CUST_0155,37,Female,Birmingham,131489.19,79.6,19,6805.8,Clothing,5,Low
+CUST_0156,27,Female,Manchester,37406.85,68.2,20,6138.0,Sports,9,Low
+CUST_0157,53,Female,London,36569.31,37.6,28,4737.6,Electronics,0,Medium
+CUST_0158,39,Male,Birmingham,35880.08,90.5,28,11403.0,Sports,3,Low
+CUST_0159,23,Male,London,40096.42,67.7,24,7311.6,Sports,0,Low
+CUST_0160,41,Female,Birmingham,33786.61,44.2,27,5370.3,Electronics,3,Medium
+CUST_0161,25,Female,Manchester,27259.82,5.0,36,810.0,Health & Beauty,1,Low
+CUST_0162,42,Male,Leeds,27627.6,91.2,30,12312.0,Electronics,10,Low
+CUST_0163,46,Female,Leeds,35725.62,25.0,34,3825.0,Clothing,4,Low
+CUST_0164,26,Female,Manchester,27675.08,20.4,30,2754.0,Grocery,9,Low
+CUST_0165,44,Female,Manchester,25427.26,68.4,24,7387.2,Grocery,8,Low
+CUST_0166,39,Male,Manchester,38300.38,93.9,30,12676.5,Sports,10,Low
+CUST_0167,43,Female,Leeds,31968.66,74.9,20,6741.0,Health & Beauty,11,Low
+CUST_0168,53,Female,London,77033.56,60.2,27,7314.3,Grocery,9,Low
+CUST_0169,32,Female,London,20000.0,60.7,21,5736.15,Health & Beauty,2,Low
+CUST_0170,27,Female,London,62677.23,65.4,32,9417.6,Sports,7,Low
+CUST_0171,26,Female,Manchester,67713.62,63.7,19,5446.35,Electronics,2,Low
+CUST_0172,26,Female,Manchester,20000.0,55.1,39,9670.05,Sports,5,Low
+CUST_0173,34,Male,Leeds,30596.97,51.9,31,7240.05,Electronics,3,Low
+CUST_0174,38,Female,London,,48.9,29,6381.45,Health & Beauty,7,Medium
+CUST_0175,37,Female,Manchester,20000.0,36.4,30,4914.0,Clothing,10,Low
+CUST_0176,43,Female,Leeds,24614.52,44.9,30,6061.5,Electronics,5,Low
+CUST_0177,35,Male,Leeds,20841.72,19.5,32,2808.0,Clothing,7,Low
+CUST_0178,49,Male,Manchester,87215.31,48.2,36,7808.4,Grocery,0,Low
+CUST_0179,32,Female,Manchester,57979.18,32.2,28,4057.2,Clothing,5,Medium
+CUST_0180,62,Female,London,68581.46,30.1,25,3386.25,Electronics,0,Medium
+CUST_0181,41,Female,Bristol,52095.61,53.2,29,6942.6,Grocery,0,Medium
+CUST_0182,26,Female,London,20650.07,75.1,21,7096.95,Sports,7,Low
+CUST_0183,24,Female,Bristol,27937.91,66.5,25,7481.25,Clothing,6,Low
+CUST_0184,39,Female,Birmingham,46382.95,21.7,30,2929.5,Electronics,2,Low
+CUST_0185,32,Female,Manchester,,32.2,31,4491.9,Clothing,5,Low
+CUST_0186,42,Female,London,51870.17,66.9,31,9332.55,Electronics,8,Low
+CUST_0187,39,Female,Manchester,32203.72,32.3,25,3633.75,Health & Beauty,6,Medium
+CUST_0188,34,Male,Manchester,30109.31,46.0,27,5589.0,Health & Beauty,11,Medium
+CUST_0189,26,Female,London,51817.33,59.9,37,9973.35,Grocery,2,Low
+CUST_0190,19,Female,Birmingham,45348.47,32.6,25,3667.5,Clothing,5,Medium
+CUST_0191,30,Male,Bristol,30318.61,51.9,26,6072.3,Health & Beauty,10,Medium
+CUST_0192,43,Male,Birmingham,64839.15,26.0,31,3627.0,Grocery,3,Low
+CUST_0193,37,Male,Birmingham,21151.55,39.2,26,4586.4,Health & Beauty,2,Medium
+CUST_0194,22,Male,London,49412.95,55.8,27,6779.7,Grocery,8,Medium
+CUST_0195,36,Male,Manchester,48852.0,21.3,36,3450.6,Health & Beauty,9,Low
+CUST_0196,38,Male,London,31108.2,57.9,22,5732.1,Grocery,1,Medium
+CUST_0197,26,Female,Birmingham,42747.52,49.6,30,6696.0,Clothing,0,Low
+CUST_0198,36,Female,Bristol,20000.0,59.9,25,6738.75,Sports,1,Medium
+CUST_0199,35,Male,Birmingham,57642.39,54.0,27,6561.0,Grocery,6,Medium
+CUST_0200,23,Male,London,33108.62,74.6,31,10406.7,Grocery,9,Low
+CUST_0201,38,Female,Manchester,27963.03,52.3,26,6119.1,Clothing,0,Medium
+CUST_0202,40,Male,Birmingham,61359.46,42.3,31,5900.85,Grocery,5,Low
+CUST_0203,45,Female,Manchester,25535.58,52.2,28,6577.2,Grocery,6,Medium
+CUST_0204,45,Female,Leeds,20000.0,59.8,26,6996.6,Electronics,8,Medium
+CUST_0205,21,Female,Leeds,20000.0,50.9,22,5039.1,Electronics,7,Medium
+CUST_0206,25,Male,Birmingham,49168.33,50.7,32,7300.8,Grocery,5,Low
+CUST_0207,40,Female,Manchester,20000.0,37.4,25,4207.5,Health & Beauty,2,Medium
+CUST_0208,40,Male,London,87325.44,38.1,30,5143.5,Grocery,7,Low
+CUST_0209,40,Female,London,20000.0,24.8,42,4687.2,Clothing,6,Low
+CUST_0210,70,Female,Manchester,84815.04,81.5,26,9535.5,Grocery,2,Low
+CUST_0211,40,Male,Manchester,40356.54,27.6,29,3601.8,Electronics,8,Medium
+CUST_0212,46,Male,Birmingham,34601.19,37.5,29,4893.75,Clothing,11,Medium
+CUST_0213,44,Male,Birmingham,27654.41,37.1,32,5342.4,Electronics,1,Low
+CUST_0214,41,Female,London,44336.7,66.1,27,8031.15,Electronics,2,Low
+CUST_0215,31,Male,Manchester,35638.53,44.7,24,4827.6,Electronics,1,Medium
+CUST_0216,42,Female,London,63047.96,72.5,17,5546.25,Clothing,0,Low
+CUST_0217,27,Male,London,38449.99,37.9,29,4945.95,Electronics,3,Medium
+CUST_0218,32,Female,Leeds,39149.81,55.0,29,7177.5,Clothing,4,Medium
+CUST_0219,30,Female,London,30278.52,35.0,27,4252.5,Grocery,5,Medium
+CUST_0220,35,Female,Manchester,35296.08,88.6,28,11163.6,Grocery,4,Low
+CUST_0221,58,Female,London,42357.5,28.6,30,3861.0,Clothing,0,Low
+CUST_0222,18,Male,Leeds,20000.0,55.6,30,7506.0,Health & Beauty,2,Low
+CUST_0223,41,Male,Birmingham,20000.0,61.4,26,7183.8,Electronics,0,Low
+CUST_0224,18,Female,London,52661.09,57.4,28,7232.4,Grocery,10,Medium
+CUST_0225,30,Male,Manchester,39554.42,46.7,36,7565.4,Electronics,4,Low
+CUST_0226,45,Male,Leeds,33123.83,47.7,28,6010.2,Electronics,4,Medium
+CUST_0227,35,Male,Bristol,36651.77,50.8,21,4800.6,Grocery,11,Medium
+CUST_0228,24,Male,London,43208.43,47.4,21,4479.3,Grocery,10,Medium
+CUST_0229,27,Male,Bristol,27725.84,67.3,24,7268.4,Sports,5,Low
+CUST_0230,41,Female,Bristol,24608.51,89.8,39,15759.9,Grocery,7,Low
+CUST_0231,27,Male,Bristol,40051.55,40.0,28,5040.0,Sports,9,Medium
+CUST_0232,37,Female,Birmingham,22265.94,25.3,29,3301.65,Electronics,11,Medium
+CUST_0233,35,Male,Birmingham,44539.26,48.4,24,5227.2,Electronics,0,Medium
+CUST_0234,28,Female,Manchester,20000.0,96.4,32,13881.6,Electronics,3,Low
+CUST_0235,56,Male,Leeds,60753.37,35.5,28,4473.0,Electronics,9,Medium
+CUST_0236,41,Female,Manchester,45995.5,79.5,29,10374.75,Grocery,10,Low
+CUST_0237,18,Female,Birmingham,41275.11,80.2,23,8300.7,Grocery,0,Low
+CUST_0238,36,Male,Manchester,59358.2,40.0,34,6120.0,Electronics,8,Low
+CUST_0239,28,Female,Leeds,,60.2,18,4876.2,Sports,10,Low
+CUST_0240,43,Non-Binary,Leeds,60305.89,79.3,27,9634.95,Health & Beauty,6,Low
+CUST_0241,27,Female,London,20000.0,43.2,31,6026.4,Clothing,6,Low
+CUST_0242,33,Female,Leeds,20000.0,46.3,31,6458.85,Electronics,11,Low
+CUST_0243,40,Male,Manchester,26571.4,39.5,25,4443.75,Electronics,4,Medium
+CUST_0244,43,Female,Leeds,36792.36,31.7,33,4707.45,Electronics,6,Low
+CUST_0245,22,Male,Manchester,47043.57,38.3,31,5342.85,Electronics,11,Low
+CUST_0246,31,Male,Manchester,25263.81,28.0,25,3150.0,Grocery,1,Medium
+CUST_0247,30,Non-Binary,Bristol,39870.16,50.6,32,7286.4,Clothing,3,Low
+CUST_0248,28,Male,London,24892.17,36.1,32,5198.4,Clothing,6,Low
+CUST_0249,52,Female,Leeds,26748.7,54.2,30,7317.0,Sports,2,Low
+CUST_0250,39,Female,Manchester,20000.0,22.0,34,3366.0,Health & Beauty,1,Low
+CUST_0251,22,Female,Manchester,22888.35,56.0,19,4788.0,Sports,9,Medium
+CUST_0252,44,Non-Binary,London,20000.0,65.0,19,5557.5,Electronics,1,Low
+CUST_0253,56,Male,Birmingham,22293.79,14.1,26,1649.7,Clothing,0,Medium
+CUST_0254,45,Male,London,61501.75,56.7,26,6633.9,Grocery,4,Medium
+CUST_0255,19,Male,London,22590.86,72.1,28,9084.6,Electronics,11,Low
+CUST_0256,30,Male,London,135427.41,28.2,19,2411.1,Electronics,5,High
+CUST_0257,47,Male,London,46474.5,,33,11894.85,Health & Beauty,5,Low
+CUST_0258,27,Male,Bristol,39831.69,57.5,16,4140.0,Grocery,8,Medium
+CUST_0259,39,Female,Bristol,23642.97,37.3,26,4364.1,Clothing,3,Medium
+CUST_0260,42,Female,Manchester,51542.14,49.0,23,5071.5,Grocery,0,Medium
+CUST_0261,25,Male,Birmingham,27232.9,60.0,26,7020.0,Clothing,5,Low
+CUST_0262,34,Female,London,38599.9,51.4,25,5782.5,Electronics,4,Medium
+CUST_0263,18,Male,Birmingham,130619.3,,23,6178.95,Clothing,9,Medium
+CUST_0264,24,Male,Leeds,34612.5,33.4,26,3907.8,Electronics,5,Medium
+CUST_0265,32,Female,Bristol,,53.0,21,5008.5,Electronics,2,Medium
+CUST_0266,22,Female,Manchester,25550.49,24.6,28,3099.6,Sports,1,Medium
+CUST_0267,51,Female,Leeds,35685.72,48.0,29,6264.0,Grocery,5,Medium
+CUST_0268,20,Male,London,88027.13,33.7,18,2729.7,Health & Beauty,0,High
+CUST_0269,30,Female,Bristol,26542.87,36.8,24,3974.4,Clothing,6,Medium
+CUST_0270,36,Female,London,89879.42,72.2,29,9422.1,Clothing,6,Low
+CUST_0271,49,Female,Birmingham,51734.28,69.6,21,6577.2,Clothing,9,Low
+CUST_0272,20,Female,Birmingham,27412.83,61.0,24,6588.0,Electronics,6,Low
+CUST_0273,46,Female,Birmingham,,30.3,24,3272.4,Electronics,11,Medium
+CUST_0274,35,Female,London,59058.11,44.3,30,5980.5,Health & Beauty,10,Low
+CUST_0275,25,Female,Bristol,49558.3,71.8,32,10339.2,Health & Beauty,9,Low
+CUST_0276,39,Non-Binary,London,20000.0,52.6,16,3787.2,Grocery,0,Medium
+CUST_0277,36,Female,Birmingham,25246.21,91.7,31,12792.15,Grocery,3,Low
+CUST_0278,28,Male,London,,57.1,34,8736.3,Sports,6,Low
+CUST_0279,35,Female,London,34988.8,53.5,24,5778.0,Electronics,10,Medium
+CUST_0280,31,Male,Manchester,49530.11,44.4,25,4995.0,Clothing,8,Medium
+CUST_0281,36,Male,Manchester,,52.4,26,6130.8,Clothing,4,Medium
+CUST_0282,41,Female,London,20000.0,47.3,34,7236.9,Health & Beauty,1,Low
+CUST_0283,50,Female,London,43918.85,62.7,27,7618.05,Sports,6,Low
+CUST_0284,22,Female,Manchester,49280.95,67.2,26,7862.4,Clothing,9,Low
+CUST_0285,56,Male,Leeds,48045.09,35.9,19,3069.45,Sports,0,Medium
+CUST_0286,18,Female,Bristol,62341.98,26.0,28,3276.0,Health & Beauty,6,Medium
+CUST_0287,33,Male,London,55103.09,16.9,30,2281.5,Clothing,5,Low
+CUST_0288,40,Non-Binary,Manchester,45687.96,59.1,31,8244.45,Clothing,6,Low
+CUST_0289,37,Non-Binary,London,35063.54,30.1,40,5418.0,Clothing,9,Low
+CUST_0290,28,Female,London,20000.0,11.2,25,1260.0,Sports,2,Medium
+CUST_0291,32,Female,Birmingham,45017.61,57.0,33,8464.5,Electronics,2,Low
+CUST_0292,30,Female,Birmingham,40289.41,94.9,16,6832.8,Health & Beauty,6,Low
+CUST_0293,29,Female,London,41597.25,49.9,41,9206.55,Clothing,1,Low
+CUST_0294,43,Male,London,20000.0,65.1,27,7909.65,Health & Beauty,0,Low
+CUST_0295,38,Male,London,21151.62,51.5,23,5330.25,Clothing,8,Medium
+CUST_0296,28,Female,Leeds,61486.72,48.2,26,5639.4,Grocery,8,Medium
+CUST_0297,43,Female,Bristol,35604.33,66.5,32,9576.0,Health & Beauty,6,Low
+CUST_0298,38,Male,London,51059.68,44.8,23,4636.8,Health & Beauty,6,Medium
+CUST_0299,43,Non-Binary,London,36833.36,54.8,27,6658.2,Sports,2,Medium
+CUST_0300,41,Male,Leeds,36859.85,55.8,23,5775.3,Electronics,9,Medium
+CUST_0301,26,Female,Bristol,58054.76,38.0,30,5130.0,Health & Beauty,1,Low
+CUST_0302,29,Female,Manchester,28056.56,67.9,21,6416.55,Electronics,10,Low
+CUST_0303,42,Female,London,,46.9,32,6753.6,Clothing,6,Low
+CUST_0304,41,Female,London,28821.08,36.4,30,4914.0,Grocery,8,Low
+CUST_0305,34,Male,Birmingham,29224.18,59.7,31,8328.15,Clothing,0,Low
+CUST_0306,36,Male,Manchester,31114.02,,36,5475.6,Grocery,3,Low
+CUST_0307,47,Female,London,40581.47,50.5,26,5908.5,Sports,5,Medium
+CUST_0308,29,Female,Birmingham,,49.8,20,4482.0,Electronics,6,Medium
+CUST_0309,40,Male,London,68041.84,69.5,24,7506.0,Health & Beauty,9,Low
+CUST_0310,32,Female,Leeds,23218.31,58.5,25,6581.25,Clothing,6,Medium
+CUST_0311,32,Male,London,33076.03,49.5,21,4677.75,Electronics,9,Medium
+CUST_0312,45,Female,London,29147.79,64.7,28,8152.2,Electronics,1,Low
+CUST_0313,43,Female,Birmingham,74868.53,75.0,28,9450.0,Sports,3,Low
+CUST_0314,43,Male,Manchester,40065.76,60.0,42,11340.0,Sports,4,Low
+CUST_0315,48,Male,Bristol,60835.1,50.2,31,7002.9,Sports,11,Low
+CUST_0316,35,Female,Manchester,20000.0,26.4,21,2494.8,Sports,0,High
+CUST_0317,41,Female,London,41503.17,30.8,32,4435.2,Electronics,0,Low
+CUST_0318,31,Female,Birmingham,56659.53,44.5,21,4205.25,Clothing,9,Medium
+CUST_0319,38,Female,London,37840.76,39.0,33,5791.5,Grocery,2,Low
+CUST_0320,33,Female,Bristol,61866.88,46.6,25,5242.5,Grocery,9,Medium
+CUST_0321,35,Non-Binary,Manchester,28039.11,51.0,34,7803.0,Clothing,2,Low
+CUST_0322,40,Female,Manchester,73473.03,59.5,36,9639.0,Clothing,11,Low
+CUST_0323,26,Female,London,,48.7,33,7231.95,Grocery,7,Low
+CUST_0324,55,Male,Manchester,30290.24,58.8,26,6879.6,Grocery,8,Medium
+CUST_0325,24,Male,Leeds,29063.8,51.2,18,4147.2,Electronics,10,Medium
+CUST_0326,22,Female,Leeds,75108.74,14.4,24,1555.2,Grocery,11,Medium
+CUST_0327,46,Male,London,80000.33,33.1,32,4766.4,Grocery,0,Low
+CUST_0328,42,Female,London,27961.11,47.4,39,8318.7,Grocery,10,Low
+CUST_0329,41,Female,Leeds,29434.02,28.2,42,5329.8,Electronics,1,Low
+CUST_0330,41,Female,Bristol,31543.02,60.8,26,7113.6,Health & Beauty,9,Low
+CUST_0331,34,Male,London,20000.0,77.6,23,8031.6,Electronics,1,Low
+CUST_0332,26,Male,Manchester,22940.84,71.9,30,9706.5,Clothing,3,Low
+CUST_0333,35,Male,London,21980.91,46.2,29,6029.1,Health & Beauty,1,Medium
+CUST_0334,28,Male,Leeds,24738.13,76.8,33,11404.8,Grocery,6,Low
+CUST_0335,44,Male,London,35691.13,52.7,26,6165.9,Clothing,8,Medium
+CUST_0336,33,Female,London,40827.35,43.9,24,4741.2,Health & Beauty,6,Medium
+CUST_0337,26,Female,Leeds,78845.87,39.0,37,6493.5,Grocery,11,Low
+CUST_0338,31,Female,London,22044.6,44.6,27,5418.9,Health & Beauty,5,Medium
+CUST_0339,39,Female,Manchester,59406.63,43.0,31,5998.5,Health & Beauty,9,Low
+CUST_0340,29,Male,Manchester,32630.59,53.1,21,5017.95,Grocery,0,Medium
+CUST_0341,26,Female,London,35428.37,52.9,30,7141.5,Grocery,10,Low
+CUST_0342,37,Female,Manchester,50889.39,50.1,28,6312.6,Electronics,9,Medium
+CUST_0343,37,Male,Manchester,20715.53,57.9,28,7295.4,Clothing,8,Medium
+CUST_0344,29,Female,London,43967.45,71.4,19,6104.7,Clothing,4,Low
+CUST_0345,30,Male,Birmingham,39467.23,67.1,33,9964.35,Grocery,10,Low
+CUST_0346,37,Female,Leeds,46454.36,23.3,29,3040.65,Grocery,4,Medium
+CUST_0347,20,Non-Binary,Leeds,41964.71,4.0,15,270.0,Clothing,5,High
+CUST_0348,20,Male,London,123952.05,66.8,27,8116.2,Electronics,8,Low
+CUST_0349,27,Female,London,26400.28,25.4,34,3886.2,Grocery,7,Low
+CUST_0350,32,Female,London,27847.58,46.0,41,8487.0,Clothing,7,Low
+CUST_0351,38,Non-Binary,Manchester,26593.7,28.9,29,3771.45,Health & Beauty,7,Medium
+CUST_0352,49,Male,Manchester,27508.81,17.6,27,2138.4,Electronics,0,Medium
+CUST_0353,43,Female,Birmingham,26404.94,59.7,18,4835.7,Grocery,0,Medium
+CUST_0354,33,Male,London,65808.76,63.7,32,9172.8,Sports,7,Low
+CUST_0355,34,Male,London,73884.04,39.6,28,4989.6,Electronics,4,Medium
+CUST_0356,24,Male,Manchester,27299.59,3.4,24,367.2,Grocery,8,Medium
+CUST_0357,34,Non-Binary,Birmingham,23952.36,40.2,31,5607.9,Electronics,1,Low
+CUST_0358,32,Female,London,45968.32,57.1,29,7451.55,Grocery,8,Medium
+CUST_0359,38,Female,Birmingham,27553.6,23.4,28,2948.4,Grocery,11,Medium
+CUST_0360,26,Female,London,49834.66,53.3,37,8874.45,Clothing,7,Low
+CUST_0361,40,Male,Bristol,40193.54,49.7,30,6709.5,Grocery,8,Low
+CUST_0362,50,Male,Bristol,20000.0,60.4,25,6795.0,Sports,3,Low
+CUST_0363,33,Male,London,78727.88,52.2,32,7516.8,Electronics,0,Low
+CUST_0364,39,Male,London,89137.81,32.5,27,3948.75,Electronics,0,Medium
+CUST_0365,41,Male,Manchester,26731.71,71.5,28,9009.0,Sports,4,Low
+CUST_0366,30,Male,London,29916.01,47.1,21,4450.95,Grocery,1,Medium
+CUST_0367,37,Male,Birmingham,41895.46,49.5,26,5791.5,Sports,7,Medium
+CUST_0368,35,Male,Leeds,42925.8,33.2,32,4780.8,Grocery,9,Low
+CUST_0369,35,Male,Birmingham,50476.95,42.0,26,4914.0,Health & Beauty,10,Medium
+CUST_0370,27,Male,Leeds,99220.73,34.1,29,4450.05,Clothing,4,Medium
+CUST_0371,35,Non-Binary,Manchester,33240.57,46.9,33,6964.65,Health & Beauty,4,Low
+CUST_0372,39,Female,London,24363.74,80.8,29,10544.4,Sports,1,Low
+CUST_0373,49,Non-Binary,Leeds,20000.0,25.3,30,3415.5,Grocery,6,Low
+CUST_0374,44,Male,Manchester,25198.38,21.0,23,2173.5,Electronics,7,Medium
+CUST_0375,56,Male,Birmingham,35718.95,,20,6885.0,Clothing,9,Low
+CUST_0376,27,Female,London,89079.0,46.2,23,4781.7,Electronics,0,Medium
+CUST_0377,43,Male,London,28034.59,38.0,14,2394.0,Clothing,1,Medium
+CUST_0378,36,Male,Bristol,40615.05,68.7,35,10820.25,Clothing,9,Low
+CUST_0379,56,Male,London,36018.52,39.1,40,7038.0,Grocery,3,Low
+CUST_0380,26,Male,Bristol,65788.26,82.9,27,10072.35,Grocery,4,Low
+CUST_0381,26,Male,Bristol,128471.99,62.2,28,7837.2,Clothing,1,Low
+CUST_0382,29,Male,Leeds,27849.37,41.2,24,4449.6,Grocery,0,Medium
+CUST_0383,18,Female,Birmingham,28432.28,88.8,36,14385.6,Electronics,8,Low
+CUST_0384,29,Male,Birmingham,61210.89,39.1,33,5806.35,Electronics,0,Low
+CUST_0385,27,Male,Leeds,51069.65,63.4,28,7988.4,Electronics,3,Low
+CUST_0386,36,Female,London,91432.26,55.4,29,7229.7,Grocery,1,Medium
+CUST_0387,38,Male,Manchester,48628.45,73.4,25,8257.5,Electronics,10,Low
+CUST_0388,53,Male,Birmingham,30344.0,78.1,23,8083.35,Clothing,3,Low
+CUST_0389,44,Female,Manchester,,50.6,28,6375.6,Clothing,7,Medium
+CUST_0390,29,Male,Manchester,63218.47,36.4,33,5405.4,Health & Beauty,7,Low
+CUST_0391,26,Male,London,54734.04,58.3,25,6558.75,Electronics,10,Medium
+CUST_0392,39,Female,Birmingham,46799.93,37.8,33,5613.3,Grocery,11,Low
+CUST_0393,21,Male,Leeds,61903.83,86.2,22,8533.8,Grocery,8,Low
+CUST_0394,53,Female,London,65163.05,52.5,29,6851.25,Health & Beauty,10,Medium
+CUST_0395,46,Female,Bristol,,43.4,27,5273.1,Sports,11,Medium
+CUST_0396,30,Male,Birmingham,,53.3,21,5036.85,Electronics,4,Medium
+CUST_0397,18,Female,Leeds,33404.33,25.8,28,3250.8,Electronics,6,Medium
+CUST_0398,48,Female,Birmingham,39079.64,32.5,45,6581.25,Sports,2,Low
+CUST_0399,33,Male,Leeds,66386.86,71.6,25,8055.0,Clothing,9,Low
+CUST_0400,47,Female,London,24137.75,38.2,23,3953.7,Grocery,3,Medium
+CUST_0401,19,Male,Leeds,43666.51,31.2,23,3229.2,Grocery,9,Medium
+CUST_0402,29,Female,London,29831.81,59.7,27,7253.55,Health & Beauty,8,Medium
+CUST_0403,35,Male,Bristol,36841.21,71.3,25,8021.25,Sports,9,Low
+CUST_0404,35,Male,Bristol,68818.37,62.9,33,9340.65,Sports,9,Low
+CUST_0405,30,Male,London,39956.62,67.9,26,7944.3,Health & Beauty,11,Low
+CUST_0406,41,Female,London,37168.55,36.4,32,5241.6,Clothing,0,Low
+CUST_0407,24,Male,Leeds,20000.0,24.4,29,3184.2,Sports,1,Medium
+CUST_0408,33,Male,London,,77.0,19,6583.5,Electronics,4,Low
+CUST_0409,36,Male,Leeds,50148.41,44.2,31,6165.9,Clothing,2,Low
+CUST_0410,40,Female,London,107111.69,45.5,33,6756.75,Sports,1,Low
+CUST_0411,42,Female,London,31135.72,73.9,40,13302.0,Clothing,0,Low
+CUST_0412,23,Female,Bristol,40520.98,60.0,24,6480.0,Clothing,9,Low
+CUST_0413,19,Female,Birmingham,41138.18,58.2,25,6547.5,Electronics,2,Medium
+CUST_0414,47,Female,Leeds,,89.0,32,12816.0,Sports,0,Low
+CUST_0415,38,Male,London,34625.73,38.4,28,4838.4,Grocery,11,Medium
+CUST_0416,27,Female,Birmingham,,66.7,26,7803.9,Health & Beauty,0,Low
+CUST_0417,50,Female,Birmingham,49214.73,51.0,34,7803.0,Clothing,11,Low
+CUST_0418,36,Non-Binary,Birmingham,39867.01,54.8,31,7644.6,Health & Beauty,0,Low
+CUST_0419,46,Female,Birmingham,29050.27,77.5,37,12903.75,Health & Beauty,7,Low
+CUST_0420,35,Male,Birmingham,40016.41,59.1,24,6382.8,Clothing,2,Medium
+CUST_0421,55,Male,Manchester,62119.54,59.7,23,6178.95,Clothing,10,Medium
+CUST_0422,52,Female,London,21736.37,69.3,32,9979.2,Electronics,0,Low
+CUST_0423,32,Female,Leeds,38812.0,43.4,39,7616.7,Sports,6,Low
+CUST_0424,44,Female,London,25589.56,34.9,26,4083.3,Grocery,9,Medium
+CUST_0425,41,Female,Birmingham,66007.48,31.2,33,4633.2,Sports,2,Low
+CUST_0426,48,Female,London,20000.0,14.6,26,1708.2,Clothing,7,Medium
+CUST_0427,25,Male,Birmingham,27461.47,87.0,34,13311.0,Health & Beauty,3,Low
+CUST_0428,41,Female,Leeds,43853.33,30.1,27,3657.15,Health & Beauty,3,Medium
+CUST_0429,45,Male,London,79440.37,46.0,31,6417.0,Health & Beauty,4,Low
+CUST_0430,18,Male,London,35141.04,45.0,22,4455.0,Sports,5,Medium
+CUST_0431,23,Male,London,27512.62,55.5,29,7242.75,Clothing,6,Medium
+CUST_0432,18,Female,Birmingham,93020.81,64.7,22,6405.3,Electronics,3,Low
+CUST_0433,32,Male,Leeds,20000.0,65.5,24,7074.0,Health & Beauty,7,Low
+CUST_0434,42,Male,London,20000.0,39.5,31,5510.25,Health & Beauty,5,Low
+CUST_0435,50,Non-Binary,Leeds,45252.23,47.0,24,5076.0,Grocery,0,Medium
+CUST_0436,35,Male,London,28253.51,55.1,29,7190.55,Electronics,0,Medium
+CUST_0437,51,Female,Manchester,21793.86,45.5,36,7371.0,Grocery,8,Low
+CUST_0438,21,Female,Bristol,51749.92,78.9,31,11006.55,Clothing,9,Low
+CUST_0439,18,Female,London,41023.5,58.8,29,7673.4,Clothing,5,Medium
+CUST_0440,34,Female,Manchester,27390.75,63.2,25,7110.0,Grocery,9,Low
+CUST_0441,38,Male,London,20000.0,61.9,30,8356.5,Health & Beauty,7,Low
+CUST_0442,34,Female,London,56175.09,71.1,32,10238.4,Clothing,6,Low
+CUST_0443,18,Male,London,50266.82,53.3,24,5756.4,Clothing,11,Medium
+CUST_0444,34,Female,London,34558.61,26.7,31,3724.65,Clothing,5,Low
+CUST_0445,21,Male,Birmingham,91429.05,57.2,17,4375.8,Electronics,3,Medium
+CUST_0446,41,Female,Manchester,21267.97,38.3,39,6721.65,Health & Beauty,6,Low
+CUST_0447,38,Male,Manchester,20000.0,40.5,31,5649.75,Sports,8,Low
+CUST_0448,25,Male,London,25694.85,60.6,23,6272.1,Clothing,10,Low
+CUST_0449,29,Male,London,35497.13,72.3,32,10411.2,Health & Beauty,9,Low
+CUST_0450,24,Male,Birmingham,41014.04,50.4,24,5443.2,Sports,9,Medium
+CUST_0451,34,Female,Bristol,32189.06,55.6,18,4503.6,Health & Beauty,6,Medium
+CUST_0452,44,Male,London,43305.19,80.6,20,7254.0,Electronics,0,Low
+CUST_0453,25,Female,Bristol,20000.0,54.3,32,7819.2,Sports,9,Low
+CUST_0454,40,Non-Binary,Birmingham,74748.34,96.8,27,11761.2,Clothing,8,Low
+CUST_0455,29,Female,Birmingham,34854.04,60.2,26,7043.4,Clothing,3,Low
+CUST_0456,27,Male,Manchester,63490.65,18.3,23,1894.05,Electronics,2,Medium
+CUST_0457,33,Male,London,43103.64,63.6,24,6868.8,Grocery,3,Low
+CUST_0458,24,Female,London,45632.55,56.9,30,7681.5,Electronics,3,Low
+CUST_0459,29,Male,Birmingham,48285.36,73.2,19,6258.6,Clothing,9,Low
+CUST_0460,23,Male,London,45426.65,62.1,25,6986.25,Clothing,10,Low
+CUST_0461,54,Female,Bristol,50079.22,47.5,29,6198.75,Health & Beauty,1,Medium
+CUST_0462,35,Female,Manchester,70585.23,28.0,30,3780.0,Sports,11,Low
+CUST_0463,28,Female,London,40065.09,46.2,24,4989.6,Clothing,0,Medium
+CUST_0464,37,Male,Birmingham,51766.67,,31,4840.65,Sports,11,Low
+CUST_0465,33,Female,London,34722.12,39.6,25,4455.0,Sports,9,Medium
+CUST_0466,32,Male,Manchester,,60.6,29,7908.3,Health & Beauty,11,Low
+CUST_0467,41,Male,Birmingham,25894.97,80.1,39,14057.55,Electronics,0,Low
+CUST_0468,42,Female,Bristol,89363.73,57.1,23,5909.85,Health & Beauty,7,Medium
+CUST_0469,29,Male,Leeds,35593.6,28.5,31,3975.75,Sports,1,Low
+CUST_0470,29,Male,Birmingham,20000.0,58.0,26,6786.0,Health & Beauty,11,Medium
+CUST_0471,32,Male,Birmingham,38717.7,71.5,29,9330.75,Clothing,9,Low
+CUST_0472,18,Female,Bristol,25834.71,39.0,27,4738.5,Grocery,4,Medium
+CUST_0473,19,Female,London,55288.59,47.6,26,5569.2,Grocery,11,Medium
+CUST_0474,48,Female,London,26204.54,50.3,22,4979.7,Grocery,3,Medium
+CUST_0475,51,Female,London,29053.91,35.9,47,7592.85,Electronics,7,Low
+CUST_0476,32,Male,London,20000.0,61.7,37,10273.05,Clothing,1,Low
+CUST_0477,40,Male,Birmingham,28965.1,47.8,24,5162.4,Health & Beauty,9,Medium
+CUST_0478,38,Male,Birmingham,20000.0,57.6,32,8294.4,Sports,8,Low
+CUST_0479,65,Male,Birmingham,20000.0,,29,4437.0,Electronics,6,Medium
+CUST_0480,46,Female,London,53114.61,42.1,30,5683.5,Sports,6,Low
+CUST_0481,33,Female,Birmingham,53793.08,63.0,31,8788.5,Clothing,0,Low
+CUST_0482,25,Male,London,44924.06,43.3,23,4481.55,Grocery,11,Medium
+CUST_0483,18,Male,Birmingham,22393.18,81.1,32,11678.4,Health & Beauty,1,Low
+CUST_0484,37,Male,Birmingham,35459.42,42.8,24,4622.4,Health & Beauty,3,Medium
+CUST_0485,27,Male,London,36250.15,54.0,24,5832.0,Sports,3,Medium
+CUST_0486,20,Female,London,20349.62,66.8,18,5410.8,Clothing,10,Low
+CUST_0487,28,Male,London,77010.66,24.5,32,3528.0,Sports,2,Low
+CUST_0488,24,Male,Leeds,56313.03,18.3,31,2552.85,Electronics,6,Low
+CUST_0489,51,Female,Bristol,32516.99,22.5,38,3847.5,Health & Beauty,11,Low
+CUST_0490,43,Male,Birmingham,36806.99,72.7,23,7524.45,Health & Beauty,7,Low
+CUST_0491,34,Female,London,40303.41,40.1,32,5774.4,Health & Beauty,1,Low
+CUST_0492,49,Male,Manchester,20000.0,96.0,28,12096.0,Clothing,3,Low
+CUST_0493,35,Female,Birmingham,32093.58,39.8,26,4656.6,Sports,2,Medium
+CUST_0494,26,Non-Binary,Leeds,25822.67,53.3,29,6955.65,Electronics,1,Medium
+CUST_0495,50,Female,London,22008.63,77.8,24,8402.4,Electronics,11,Low
+CUST_0496,40,Male,London,31553.82,86.1,36,13948.2,Health & Beauty,5,Low
+CUST_0497,24,Female,Birmingham,89218.46,87.1,33,12934.35,Grocery,3,Low
+CUST_0498,33,Male,Manchester,50032.17,,30,9693.0,Health & Beauty,5,Low
+CUST_0499,26,Male,London,27293.68,68.4,31,9541.8,Clothing,1,Low
+CUST_0500,21,Male,London,48353.38,60.7,27,7375.05,Electronics,11,Low
